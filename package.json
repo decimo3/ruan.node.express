@@ -1,0 +1,17 @@
+{
+  "name": "ruan.node.express",
+  "version": "1.0.0",
+  "description": "simple nodejs application with express framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "@RuanCamello",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
